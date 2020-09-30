@@ -1,3 +1,5 @@
+//config of database connection
+
 <?php
 require("config/session.php");
 require("config/helper.php");
