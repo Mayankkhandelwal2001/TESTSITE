@@ -1,4 +1,4 @@
-# core_php_login
+# core_php_login to the admin lte
 
 Prodecure to setup project
 1. Create  a database name "progesh"
